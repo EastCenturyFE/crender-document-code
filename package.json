@@ -1,7 +1,7 @@
 {
-  "name": "crender.jiaminghi.com",
+  "name": "crender",
   "version": "1.0.0",
-  "author": "JiaMing <743192023@qq.com>",
+  "author": "fex <fex@hndfsj.com>",
   "scripts": {
     "build": "vuepress build docs",
     "deploy": "node deploy/index.js",
@@ -27,5 +27,5 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "repository": "https://github.com/jiaming743/CRender_Guide.git"
+  "repository": "https://github.com/east-century-fex/crender.git"
 }

@@ -4,8 +4,8 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
-  host: '192.168.10.150',
-  port: 5002,
+  host: 'localhost',
+  port: 5000,
   base: '/crender-document-code/',
   themeConfig: {
     selectText: '选择语言',
@@ -25,7 +25,7 @@ module.exports = {
       },
       {
         text: 'GitHub',
-        link: 'https://github.com/jiaming743/crender'
+        link: 'https://github.com/east-century-fex/crender'
       }
     ],
     sidebar: {

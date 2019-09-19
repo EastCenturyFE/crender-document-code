@@ -10,5 +10,5 @@ features:
   details: 搭配不同的缓动曲线，动画轻而易举
 - title: 便于交互
   details: 内置图形均支持hover、click、drag，快速在元素上添加交互，一步到位
-footer: MIT Licensed | Copyright © 2018-present JiaMing
+footer: MIT Licensed | Copyright © 2018-present East-Century
 ---

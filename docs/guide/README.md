@@ -19,7 +19,7 @@ sidebarDepth: 2
 
 基于**transition**插件提供了动效支持，调用图形实例的**animation**方法去更改其状态，**CRender**将自动渲染图形状态过渡动画，动画——轻而易举
 
-[Transition](http://transition.jiaminghi.com/)
+[Transition](https://eastcenturyfe.github.io/transition-document-code)
 
 * 交互
 
@@ -44,9 +44,9 @@ yarn add @jiaminghi/c-render
 ```html
 <!--资源位于个人服务器仅供体验和测试，请勿在生产环境使用-->
 <!--调试版-->
-<script src="http://lib.jiaminghi.com/crender/crender.map.js"></script>
+<script src="https://github.com/east-century-fex/crender/blob/master/dist/crender.map.js"></script>
 <!--压缩版-->
-<script src="http://lib.jiaminghi.com/crender/crender.min.js"></script>
+<script src="https://github.com/east-century-fex/crender/blob/master/dist/crender.min.js"></script>
 <script>
   const { CRender, extendNewGraph } = window.CRender
   // do something
